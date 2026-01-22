@@ -1,1 +1,1 @@
-
+print("Projet timeloop - NSI")
